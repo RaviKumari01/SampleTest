@@ -1,0 +1,187 @@
+2016-10-26 14:58:29 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:58:35 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:58:35 INFO  GUIFunctions:67 - Successfully clicked on element: Closebutton
+2016-10-26 14:58:40 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:58:42 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:58:42 INFO  GUIFunctions:67 - Successfully clicked on element: Signin
+2016-10-26 14:58:47 INFO  Login:18 - Login pageLogin
+2016-10-26 14:58:48 INFO  Login:18 - Login pageLogin
+2016-10-26 14:58:58 INFO  Login:18 - Login pageLogin
+2016-10-26 14:58:59 INFO  Login:18 - Login pageLogin
+2016-10-26 14:59:04 INFO  Login:18 - Login pageLogin
+2016-10-26 14:59:04 INFO  Login:18 - Login pageLogin
+2016-10-26 14:59:09 INFO  GUIFunctions:67 - Successfully clicked on element: SignIn
+2016-10-26 14:59:14 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:59:17 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:59:17 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:59:24 INFO  HomePage:40 - RS Home Page titleHome
+2016-10-26 14:59:25 INFO  GUIFunctions:67 - Successfully clicked on element: Search Button
+2016-10-26 14:59:35 INFO  HomePage:40 - RS Home Page titleGreece: Island Hopping in the Aegean
+2016-10-26 14:59:46 INFO  TripDetailPage:27 - TripDetailPageGreece: Island Hopping in the Aegean
+2016-10-26 14:59:46 INFO  GUIFunctions:67 - Successfully clicked on element: dateAndpriceTab
+2016-10-26 14:59:56 INFO  GUIFunctions:67 - Successfully clicked on element: SelectDate
+2016-10-26 15:00:31 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:31 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:36 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:36 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:36 INFO  GUIFunctions:67 - Successfully clicked on element: One Person
+2016-10-26 15:00:36 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:36 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:41 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:41 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:42 INFO  GUIFunctions:91 - Successfully selected the raido button 'NoAirfare
+2016-10-26 15:00:42 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:42 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:47 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:47 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:47 INFO  GUIFunctions:67 - Successfully clicked on element: single
+2016-10-26 15:00:52 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:52 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:58 INFO  CheckOutStep1:27 - RS CheckOut step1 Page titleCheckout
+2016-10-26 15:00:58 INFO  CheckOutStep1:32 - user is in checkout STEP1  page
+2016-10-26 15:00:58 INFO  GUIFunctions:67 - Successfully clicked on element: Continue Button
+2016-10-26 15:01:03 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:03 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:08 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:08 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:35 INFO  CheckOutStep2:493 - Value entered into the first name text box
+2016-10-26 15:01:40 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:40 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:46 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:46 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:47 INFO  CheckOutStep2:512 - Value entered into the last name text box
+2016-10-26 15:01:52 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:52 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:57 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:01:57 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:01:58 INFO  CheckOutStep2:532 - Value entered into the email address text box
+2016-10-26 15:02:03 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:03 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:08 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:08 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:09 INFO  CheckOutStep2:550 - Value entered into the city text box
+2016-10-26 15:02:14 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:14 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:20 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:20 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:21 INFO  CheckOutStep2:568 - Value entered into the phone number text box
+2016-10-26 15:02:26 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:26 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:31 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:31 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:32 INFO  CheckOutStep2:586 - Value entered into the Zip Code text box
+2016-10-26 15:02:37 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:37 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:42 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:42 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:42 INFO  GUIFunctions:67 - Successfully clicked on element: Country
+2016-10-26 15:02:47 INFO  GUIFunctions:67 - Successfully clicked on element: Country
+2016-10-26 15:02:52 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:53 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:53 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:53 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:02:53 INFO  GUIFunctions:67 - Successfully clicked on element: State
+2016-10-26 15:02:58 INFO  GUIFunctions:67 - Successfully clicked on element: State
+2016-10-26 15:02:58 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:02:58 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:03:03 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:03:03 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:03:09 INFO  GUIFunctions:67 - Successfully clicked on element: Country
+2016-10-26 15:03:19 INFO  CheckOutStep2:26 - RS CheckOut step2 Page titleCheckout
+2016-10-26 15:03:19 INFO  CheckOutStep2:31 - user is in checkout STEP2  page
+2016-10-26 15:03:19 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:03:49 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@value='10']"}
+Command duration or timeout: 30.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:03:49 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:03:49 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:04:19 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[@class='ctc-link']"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:04:19 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:04:20 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:04:50 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='tac-button pure-button modal-close']"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:04:55 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:04:55 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:05:30 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='checkBox ']"}
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:05:35 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:05:36 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:06:06 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@payment='Check']"}
+Command duration or timeout: 30.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:06:06 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:06:11 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:06:47 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:07:22 ERROR GUIFunctions:71 - Element to click is not present org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//button[@class='completeButton']"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+2016-10-26 15:07:32 INFO  CheckOutStep3:27 - checkout Step3 page title=Checkout
+2016-10-26 15:07:37 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:08:17 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:08:18 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:08:58 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:08:58 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:09:38 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:09:38 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:10:19 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:10:19 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:10:59 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:10:59 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:11:39 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:11:40 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:12:20 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:12:20 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:13:00 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:13:01 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:13:41 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:13:41 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:14:21 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:14:22 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:14:57 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:14:57 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:15:37 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:15:38 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:16:18 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:16:18 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:16:58 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:16:58 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:17:39 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:17:39 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:18:19 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:18:19 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:18:55 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]
+2016-10-26 15:19:30 INFO  CheckOutThankYou:26 - ObjRepoProperty.getProperty==html/body/div[2]/div[1]/div[1]/div[1]

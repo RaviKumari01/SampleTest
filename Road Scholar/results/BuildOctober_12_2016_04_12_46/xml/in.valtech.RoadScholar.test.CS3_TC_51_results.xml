@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step3_YES_CS3_TC_51"
+           tests="101"
+           failures="1"
+           errors="0"
+           skipped="92"
+           time="115.609">
+  <properties />
+            <testcase name="Step09_clickOnDateAndPricesTab" time="35.052" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+                <failure type="java.lang.IllegalStateException"
+                  message="This is not the RS TripDetailPage page"
+              >
+<![CDATA[java.lang.IllegalStateException: This is not the RS TripDetailPage page
+  in.valtech.RoadScholar.pages.TripDetailPage.<init>(TripDetailPage.java:36)
+  in.valtech.RoadScholar.test.CS3_TC_51.Step09_clickOnDateAndPricesTab(CS3_TC_51.java:135)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="classLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step23_clickOnContinueBtn" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step36_clcickOnCompleteButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step19_enterZipCode" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step14_clickOnContinueBtn" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step29_nameOnAccountTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step10_clickOnSelectBtn" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step38_enterTextIntoAllMandatoryFields" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step35_completeButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step26_clickOnOkayButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step32_AccountNumberTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step18_enterCity" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step28_clickPayByCheckRadioButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step34_AmountTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step33_BankNameTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step15_EnterValueFirstName" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step11_click" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step25_clickOn$10RadioButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step17_enterValueAddress" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step37_verifyErrorMessage" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step27_clickIAcceptButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step22_selectStateDropDown" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step19_enterPhoneNumber" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step39_clcickOnCompleteButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step30_AccountTypeTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step21_selectCountry1" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step13_selectNoInterfaceRadioBtn" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step31_routingNumberTextBox" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="step24_clickOn$10RadioButton" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step12_SelectDoubleRadioBtn" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+            <testcase name="Step16_enterValueLastName" time="0.0" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+          <skipped />
+    </testcase>
+  
+            <testcase name="Step08_clickOnSearchButton" time="5.066" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step05_Passwd" time="10.154" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step02_clickingOnCloseButton" time="10.133" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step01_HOMEPAGE_URL" time="9.123" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step03_ClickOnSignInLink" time="10.128" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step07_EnterTripIdIntoSearchField" time="5.119" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step04_Email" time="15.265" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step06_SignUpBtn" time="15.566" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+      
+</testsuite>

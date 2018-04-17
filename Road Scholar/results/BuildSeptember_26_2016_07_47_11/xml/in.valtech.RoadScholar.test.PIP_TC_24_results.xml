@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Personal Information Page_YES_PIP_TC_24"
+           tests="38"
+           failures="1"
+           errors="0"
+           skipped="37"
+           time="0.003">
+  <properties />
+            <testcase name="setUp" time="0.000" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.getSize(RemoteWebDriver.java:810)
+  in.valtech.config.BaseTest.setUp(BaseTest.java:105)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+  org.testng.TestRunner.beforeRun(TestRunner.java:641)
+  org.testng.TestRunner.run(TestRunner.java:609)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="classLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step10_EditMiddleName" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step06_Signup" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step02_CloseSinUp" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step03_ClearMiddleName" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step03_NavigateTOLogin" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step04_Email" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step07_ClickOnPIP" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step08_VerifyUsername" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step01_HOMEPAGE_URL" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step05_Passwd" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step11_ClcikOnSave" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+            <testcase name="Step06_Save" time="0.0" classname="in.valtech.RoadScholar.test.PIP_TC_24">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

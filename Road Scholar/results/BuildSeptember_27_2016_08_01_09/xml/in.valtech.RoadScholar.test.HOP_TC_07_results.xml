@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_07"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="67.039">
+  <properties />
+  
+  
+            <testcase name="Step03_ErrorPromo" time="10.224" classname="in.valtech.RoadScholar.test.HOP_TC_07" />
+                <testcase name="Step04_SuccessPromo" time="28.075" classname="in.valtech.RoadScholar.test.HOP_TC_07" />
+                <testcase name="Step02_CloseSinUp" time="15.135" classname="in.valtech.RoadScholar.test.HOP_TC_07" />
+                <testcase name="Step01_HOMEPAGE_URL" time="13.605" classname="in.valtech.RoadScholar.test.HOP_TC_07" />
+      
+</testsuite>

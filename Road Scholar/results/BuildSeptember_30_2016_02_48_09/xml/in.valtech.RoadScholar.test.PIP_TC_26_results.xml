@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Personal Information Page_YES_PIP_TC_26"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="124.215">
+  <properties />
+  
+  
+            <testcase name="step01_HOMEPAGE_URL" time="11.596" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step09_ClickOnSave" time="5.068" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step03_ClickOnSignInLink" time="10.125" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step02_CloseSinUp" time="15.147" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step10_VerifyErrorMsg" time="10.121" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step05_Passwd" time="10.135" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step08_ClickOnChangePWD" time="10.144" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step11_NavigateBack" time="10.079" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step04_Email" time="15.241" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step07_ClickOnPIP" time="11.392" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+                <testcase name="step06_SignUpBtn" time="15.167" classname="in.valtech.RoadScholar.test.PIP_TC_26" />
+      
+</testsuite>

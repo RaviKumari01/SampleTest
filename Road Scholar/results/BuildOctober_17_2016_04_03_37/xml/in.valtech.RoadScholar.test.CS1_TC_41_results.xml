@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step1_YES_CS1_TC_41"
+           tests="17"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="183.917">
+  <properties />
+  
+  
+            <testcase name="Step17_clickOnContinueBtn" time="15.137" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step02_clickingOnCloseButton" time="10.096" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step11_clickChangeDateBtn" time="10.179" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step15_SelectDoubleRadioBtn" time="10.117" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step08_clickOnDateAndPricesTab" time="15.279" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step12_clickEnrollNow" time="5.093" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step07_clickOnTripCard" time="15.569" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step09_clickOnSelectBtn" time="10.129" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step01_HOMEPAGE_URL" time="15.365" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step06_SignUpBtn" time="16.073" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step10_verifyChangeDateBtn" time="5.052" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step04_Email" time="15.219" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step14_click" time="5.082" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step05_Passwd" time="10.120" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step03_ClickOnSignInLink" time="10.132" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step13_clickSelectDateBtn" time="10.184" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step16_selectNoInterfaceRadioBtn" time="5.091" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+      
+</testsuite>

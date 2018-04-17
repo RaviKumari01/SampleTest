@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WishList Page_YES_WLP_TC_22"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="157.120">
+  <properties />
+  
+  
+            <testcase name="Step03_NavigateTOLogin" time="20.921" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step02_CloseSinUp" time="10.099" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_10_Edit" time="10.125" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step06_Signup" time="15.135" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_08_WishlistCount" time="10.134" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_07_NavigateWishlist" time="5.185" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_11_RemovefromWishList" time="10.140" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_13_ValidateWishListCount" time="10.112" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step05_Passwd" time="10.129" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step04_Email" time="15.171" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step01_HOMEPAGE_URL" time="15.379" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_12_ClickOnDone" time="14.477" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+                <testcase name="Step_09_ListView" time="10.113" classname="in.valtech.RoadScholar.test.WLP_TC_22" />
+      
+</testsuite>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_09"
+           tests="6"
+           failures="4"
+           errors="0"
+           skipped="0"
+           time="21.856">
+  <properties />
+            <testcase name="step05_VerifyNoOfTripsDisplayedInCollectionPage" time="0.010" classname="in.valtech.RoadScholar.test.HOP_TC_09">
+                <failure type="java.lang.IllegalArgumentException"
+                  message="Cannot find elements when the XPath expression is null."
+              >
+<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+  org.openqa.selenium.By.xpath(By.java:112)
+  in.valtech.RoadScholar.pages.CollectionPage.<init>(CollectionPage.java:39)
+  in.valtech.RoadScholar.test.HOP_TC_09.step05_VerifyNoOfTripsDisplayedInCollectionPage(HOP_TC_09.java:71)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step03_ClickOnCollectionUnderExploreYourInterest" time="10.236" classname="in.valtech.RoadScholar.test.HOP_TC_09">
+                <failure type="java.lang.IllegalArgumentException"
+                  message="Cannot find elements when the XPath expression is null."
+              >
+<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+  org.openqa.selenium.By.xpath(By.java:112)
+  in.valtech.RoadScholar.pages.CollectionPage.<init>(CollectionPage.java:39)
+  in.valtech.RoadScholar.pages.HomePage.clickOnCollectionUnderExploreYourInterest(HomePage.java:546)
+  in.valtech.RoadScholar.test.HOP_TC_09.step03_ClickOnCollectionUnderExploreYourInterest(HOP_TC_09.java:48)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step04_VerifyNavigatedCollectionPageTitle" time="0.010" classname="in.valtech.RoadScholar.test.HOP_TC_09">
+                <failure type="java.lang.IllegalArgumentException"
+                  message="Cannot find elements when the XPath expression is null."
+              >
+<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+  org.openqa.selenium.By.xpath(By.java:112)
+  in.valtech.RoadScholar.pages.CollectionPage.<init>(CollectionPage.java:39)
+  in.valtech.RoadScholar.test.HOP_TC_09.step04_VerifyNavigatedCollectionPageTitle(HOP_TC_09.java:59)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step06_VerifyCollectionDescription" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_09">
+                <failure type="java.lang.IllegalArgumentException"
+                  message="Cannot find elements when the XPath expression is null."
+              >
+<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+  org.openqa.selenium.By.xpath(By.java:112)
+  in.valtech.RoadScholar.pages.CollectionPage.<init>(CollectionPage.java:39)
+  in.valtech.RoadScholar.test.HOP_TC_09.step06_VerifyCollectionDescription(HOP_TC_09.java:83)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="step01_HOMEPAGE_URL" time="6.496" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step02_ClickonCloseModal" time="5.104" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+      
+</testsuite>

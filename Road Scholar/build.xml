@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Road Scholar"  default="Copy-Into-Results" basedir="." >
+	<property name="sourceDir" location= "src"/>
+	<property name="buildDir" location= "bin"/>
+	<property name="reportDir" location= "reports"/>
+	<property name="libDir" location= "lib"/>
+	<property name="screenshotsDir" location= "screenshots"/>
+	<property name="testSuiteLocation" location= "testSuites"/>
+	<property name="testSuiteLocationDir" location= "testSuites"/>
+	<property name="logDir" location="log"/>
+	<property name="log4j" value= "file:///${basedir}/resources/testData/log4j.properties" />
+	<!-- timestamp -->
+		<tstamp>
+			<format property="timestamp" pattern="MMMM_d_yyyy_hh_mm_ss" />
+		</tstamp>
+	
+	<path id="master-classpath">
+			<fileset dir="${libDir}">
+				<include name="*.jar">
+				</include>
+			</fileset>
+
+			<fileset dir="${libDir}" includes="**/*.jar">
+				<include name="**/resources/*.properties" />
+			</fileset>
+			<pathelement path="${buildDir}">
+			</pathelement>
+		</path>
+	
+	<taskdef resource="testngtasks" classpath="${libDir}/testng-6.8.jar" />
+		<target name="clean" description="Remove the build and report directories">
+
+			<delete dir="${reportDir}" />
+			<delete dir="${screenshotsDir}" />
+			<delete dir="${testSuiteLocationDir}" />
+			
+		</target>
+	
+		<target name="build" description="Creates a build of the test suite.">
+			<echo>"Making directory ${buildDir}"</echo>
+			<mkdir dir="${buildDir}" />
+			<echo>"Making directory ${reportDir}"</echo>
+			<mkdir dir="${reportDir}" />
+			<echo>"Making directory ${screenshotsDir}"</echo>
+			<mkdir dir="${screenshotsDir}" />
+			<echo>"Making directory ${logDir}"</echo>
+			<mkdir dir="${logDir}" />
+			<echo>"Making directory ${reportDir}"</echo>
+			<mkdir dir="./results/Build${timestamp}" />
+			<echo>"Making directory ${testSuiteLocationDir}"</echo>
+			<mkdir dir="${testSuiteLocationDir}" />
+
+			<echo>"Doing build..."</echo>
+			<javac destdir="${buildDir}" includeantruntime="true" debug="true" deprecation="false" failonerror="true">
+				<src path="${sourceDir}" />
+				<classpath refid="master-classpath">
+				</classpath>
+			</javac>
+		</target>
+		<target name="generateSuiteXML" >
+	      <java fork="true" failonerror="yes" classname="in.valtech.util.GenerateTestNGXML">
+	          <classpath refid="master-classpath">
+				</classpath>
+	      </java>
+	   </target>
+	   
+		<target name="doTest" description="Execute TestNG tests" depends="clean, build, generateSuiteXML">
+			<testng classpathref="master-classpath" outputdir="./reports" workingDir="${buildDir}" haltonfailure="false" useDefaultListeners="false" listeners="org.uncommons.reportng.HTMLReporter,org.uncommons.reportng.JUnitXMLReporter,in.valtech.util.Screenshot">
+
+				<!-- Specify suites or scripts to run here -->
+				<xmlfileset dir="${testSuiteLocation}" includes="*.xml" />
+				<sysproperty key="org.uncommons.reportng.title" value="Test Result Report" />
+				<sysproperty key="org.uncommons.reportng.escape-output" value="false" />
+				<sysproperty key="org.uncommons.reportng.locale" value="utf-8" />
+				<sysproperty key="log4j.configuration" value="${log4j}" />
+			</testng>
+		</target>
+
+
+		<!--Task Copy Report and Screenshots Dir into Results Dir. -->
+		<target name="Copy-Into-Results" depends="doTest">
+			<copy todir="./results/Build${timestamp}">
+				<fileset dir="./reports" />
+			</copy>
+			<copy todir="./Results/Build${timestamp}">
+				<fileset dir="./screenshots" />
+			</copy>
+		</target>
+	</project>
+
+  

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Personal Information Page_YES_PIP_TC_31"
+           tests="15"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="158.892">
+  <properties />
+  
+  
+            <testcase name="step13_EnterValueInReTypePasswordField" time="5.107" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step09_clickOnChangePasswordlink" time="40.124" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step15_VerifySuccesssMessage" time="5.057" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step10_clickOnSaveAndContinueButton" time="10.100" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step06_clickOnSignInButton" time="10.199" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step14_ClickOnSaveButton" time="5.067" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step03_clickOnSignInLink" time="5.108" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step04_enterEmailInToEmailField" time="10.170" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step08_changeEmailAddressandClickOnChangepasswordLink" time="10.178" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step07_clickOnPersonalInformationLink" time="14.280" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step12_enterValueInPasswordField" time="5.112" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step11_clickOnChangePasswordlink" time="10.075" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step05_enterPasswordIntoPasswordField" time="10.136" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step02_CloseSignUpPopUp" time="10.161" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step01_HomePage_URL" time="8.018" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+      
+</testsuite>

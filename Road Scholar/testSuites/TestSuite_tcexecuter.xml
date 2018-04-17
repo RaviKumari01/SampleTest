@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RS Automation Automation :TCEXECUTER">
+  <test name="Checkout_ThankYou_CTY_TC_52_CTY_TC_52">
+    <parameter name="TC_DESCRIPTIONS" value="CTY_TC_52"/>
+    <parameter name="TC_NAME" value="CTY_TC_52"/>
+    <parameter name="HOMEPAGE_URL" value="https://qa-post-roadscholar.nyc.valtech.com/"/>
+    <parameter name="DS_CONFIG" value="USER_DS-V16,PAYMENT_CHECK-V16"/>
+    <parameter name="REUSABLE_TC ID" value="HOP_TC_05"/>
+    <parameter name="USERNAME" value="m@gmail.com"/>
+    <parameter name="PASSWORD" value="Test1234"/>
+    <parameter name="DRIVER" value="FF"/>
+    <classes>
+      <class name="in.valtech.RoadScholar.test.HOP_TC_05"/>
+      <class name="in.valtech.RoadScholar.test.CTY_TC_52"/>
+    </classes>
+  </test> <!-- Checkout_ThankYou_CTY_TC_52_CTY_TC_52 -->
+</suite> <!-- RS Automation Automation :TCEXECUTER -->

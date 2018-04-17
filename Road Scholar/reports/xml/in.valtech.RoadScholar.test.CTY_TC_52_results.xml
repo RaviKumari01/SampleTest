@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_ThankYou_CTY_TC_52_CTY_TC_52"
+           tests="43"
+           failures="4"
+           errors="0"
+           skipped="0"
+           time="1232.539">
+  <properties />
+            <testcase name="step42_verifyValueOfProgramNumber" time="35.059" classname="in.valtech.RoadScholar.test.CTY_TC_52">
+                <failure type="org.openqa.selenium.NoSuchElementException"
+                  message="Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//div[@class=&apos;coc-content&apos;])[4]&quot;}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]"
+              >
+<![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[4]"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+  sun.reflect.GeneratedConstructorAccessor94.newInstance(Unknown Source)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+  org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+  org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+  org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+  org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+  in.valtech.RoadScholar.pages.CheckOutThankYou.verifyValueProgramNumber(CheckOutThankYou.java:338)
+  in.valtech.RoadScholar.test.CTY_TC_52.step42_verifyValueOfProgramNumber(CTY_TC_52.java:544)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[4]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Driver info: driver.version: unknown
+  <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9618:133)
+  <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step43_verifyValueOfProgramDate" time="35.116" classname="in.valtech.RoadScholar.test.CTY_TC_52">
+                <failure type="org.openqa.selenium.NoSuchElementException"
+                  message="Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//div[@class=&apos;coc-content&apos;])[5]&quot;}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]"
+              >
+<![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[5]"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+  sun.reflect.GeneratedConstructorAccessor94.newInstance(Unknown Source)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+  org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+  org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+  org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+  org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+  in.valtech.RoadScholar.pages.CheckOutThankYou.verifyValueOfProgramDate(CheckOutThankYou.java:357)
+  in.valtech.RoadScholar.test.CTY_TC_52.step43_verifyValueOfProgramDate(CTY_TC_52.java:556)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[5]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Driver info: driver.version: unknown
+  <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9618:133)
+  <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step41_verifyValueOfProgramName" time="35.122" classname="in.valtech.RoadScholar.test.CTY_TC_52">
+                <failure type="org.openqa.selenium.NoSuchElementException"
+                  message="Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;(//div[@class=&apos;coc-content&apos;])[3]&quot;}
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]"
+              >
+<![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[3]"}
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+  sun.reflect.GeneratedConstructorAccessor94.newInstance(Unknown Source)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+  org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+  org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+  org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+  org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+  in.valtech.RoadScholar.pages.CheckOutThankYou.verifyValueProgramName(CheckOutThankYou.java:320)
+  in.valtech.RoadScholar.test.CTY_TC_52.step41_verifyValueOfProgramName(CTY_TC_52.java:532)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"(//div[@class='coc-content'])[3]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Driver info: driver.version: unknown
+  <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9618:133)
+  <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="step23_enterTextIntoAllMandatoryFields" time="30.054" classname="in.valtech.RoadScholar.test.CTY_TC_52">
+                <failure type="org.openqa.selenium.NoSuchElementException"
+                  message="Unable to locate element: {&quot;method&quot;:&quot;tag name&quot;,&quot;selector&quot;:&quot;iframe&quot;}
+Command duration or timeout: 30.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]"
+              >
+<![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"tag name","selector":"iframe"}
+Command duration or timeout: 30.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: 82a8b9fa-fee1-4828-ac15-0438a2d31ba0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, webStorageEnabled=true, nativeEvents=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=31.8.0}]
+  sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+  sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+  org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+  org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+  org.openqa.selenium.remote.RemoteWebDriver.findElementByTagName(RemoteWebDriver.java:417)
+  org.openqa.selenium.By$ByTagName.findElement(By.java:330)
+  org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+  in.valtech.RoadScholar.pages.CheckOutStep3.enterAllMandatoryFields(CheckOutStep3.java:861)
+  in.valtech.RoadScholar.test.CTY_TC_52.step23_enterTextIntoAllMandatoryFields(CTY_TC_52.java:313)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"tag name","selector":"iframe"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Driver info: driver.version: unknown
+  <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9618:133)
+  <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/RANI~1.KUM/AppData/Local/Temp/anonymous8936212272640946826webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="Step04_clickOnSelectBtn" time="39.289" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step03_clickOnDateAndPricesTab" time="15.223" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step19_clickOn$10RadioButton" time="30.143" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step19_enterPhoneNumber" time="11.096" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step12_enterCity" time="11.012" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step40_verifyValueOfOrderName" time="40.156" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step02_clickOnSearchButton" time="15.898" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step21_selectCountry1" time="10.218" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step16_selectStateDropDown" time="10.261" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step30_verifyProgramNumber" time="40.148" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step28_verifyordernumber" time="40.162" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step38_verifyLearnMoreLink" time="40.117" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step39_verifyValueOfOrderNumber" time="40.143" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step25_verifyTitle" time="40.141" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step20_clickOnOkayButton" time="35.144" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step08_clickOnContinueBtn" time="10.199" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step11_enterValueAddress" time="11.086" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step05_click" time="5.123" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step17_clickOnContinueBtn" time="15.206" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step33_verifyActivityLevel" time="40.131" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step07_SelectDoubleRadioBtn" time="10.284" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step29_verifyProgramName" time="40.091" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step32_verifyAccommodation" time="40.125" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step36_verifyRemainingBalance" time="40.132" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step27_verifyPeopleTravelling" time="40.131" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step35_verifyWithAGift" time="35.120" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step31_verifyProgramDates" time="40.154" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step10_enterValueLastName" time="11.019" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step09_EnterValueFirstName" time="37.051" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step26_verifyDescription" time="40.152" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step18_clickOn$10RadioButton" time="30.123" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step24_clcickOnCompleteButton" time="55.155" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step37_verifyCancellationPolicyLink" time="40.122" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step14_enterZipCode" time="10.717" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step22_clickPayByCheckRadioButton" time="35.046" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step01_EnterTripIdIntoSearchField" time="5.373" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step21_clickIAcceptButton" time="40.174" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step06_selectNoInterfaceRadioBtn" time="5.203" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step34_verifyTotalPrice" time="40.120" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+      
+</testsuite>

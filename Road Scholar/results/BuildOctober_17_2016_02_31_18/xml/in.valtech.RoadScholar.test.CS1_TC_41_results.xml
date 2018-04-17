@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step1_YES_CS1_TC_41"
+           tests="12"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="107.879">
+  <properties />
+            <testcase name="Step12_clickOnContinueBtn" time="15.139" classname="in.valtech.RoadScholar.test.CS1_TC_41">
+                <failure type="java.lang.AssertionError"
+                  message="expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: expected [true] but found [false]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:494)
+  org.testng.Assert.assertTrue(Assert.java:42)
+  org.testng.Assert.assertTrue(Assert.java:52)
+  in.valtech.RoadScholar.pages.CheckOutStep2.<init>(CheckOutStep2.java:29)
+  in.valtech.RoadScholar.pages.CheckOutStep1.ClickContinue(CheckOutStep1.java:116)
+  in.valtech.RoadScholar.test.CS1_TC_41.Step12_clickOnContinueBtn(CS1_TC_41.java:162)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="Step5_clickOnDateAndPricesTab" time="10.595" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step10_click" time="5.127" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step02_ClickingOnCLOSE" time="10.102" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step9_clickSelectDateBtn" time="8.043" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step7_clickChangeDateBtn" time="10.209" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step6_verifyChangeDateBtn" time="5.056" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step8_clickEnrollNow" time="5.098" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step01_HOMEPAGE_URL" time="7.953" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step11_SelectDoubleRadioBtn" time="10.096" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step3_clickOnTripCard" time="13.387" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+                <testcase name="Step5_clickOnSelectBtn" time="7.074" classname="in.valtech.RoadScholar.test.CS1_TC_41" />
+      
+</testsuite>

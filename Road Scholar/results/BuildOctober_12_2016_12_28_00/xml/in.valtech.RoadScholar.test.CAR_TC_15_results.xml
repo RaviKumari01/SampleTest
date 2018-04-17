@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Catalog Request Page_YES_CAR_TC_15"
+           tests="16"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="158.348">
+  <properties />
+  
+  
+            <testcase name="step09_enterCity" time="10.114" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step04_SelectCountry" time="10.187" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step16_VerifyError" time="5.072" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step07_enterValueLastName" time="10.166" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step13_VerifyError" time="5.078" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step10_enterPhoneNumber" time="10.193" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step12_clickOnSubmitBtn" time="0.044" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step11_enterEmailAddress" time="10.193" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step05_clickOnRadioBtn" time="5.152" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step02_ClickingOnClose" time="5.118" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step03_clickOnCatalogRequestLink" time="7.261" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step15_clickOnSubmitBtn" time="5.111" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step01_HOMEPAGE_URL" time="13.134" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step08_enterValueAddress" time="10.173" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step14_SelectCountryCanada" time="40.194" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+                <testcase name="step06_EnterValueFirstName" time="11.158" classname="in.valtech.RoadScholar.test.CAR_TC_15" />
+      
+</testsuite>

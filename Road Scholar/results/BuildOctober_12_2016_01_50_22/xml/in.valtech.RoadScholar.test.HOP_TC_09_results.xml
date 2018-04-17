@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_09"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.466">
+  <properties />
+  
+  
+            <testcase name="step05_VerifyNoOfTripsDisplayedInCollectionPage" time="0.050" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step01_HOMEPAGE_URL" time="8.471" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step03_ClickOnCollectionUnderExploreYourInterest" time="11.701" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step06_VerifyCollectionDescription" time="0.053" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step02_ClickonCloseModal" time="5.136" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+                <testcase name="step04_VerifyNavigatedCollectionPageTitle" time="0.055" classname="in.valtech.RoadScholar.test.HOP_TC_09" />
+      
+</testsuite>

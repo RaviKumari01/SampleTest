@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_02"
+           tests="26"
+           failures="9"
+           errors="0"
+           skipped="17"
+           time="0.003">
+  <properties />
+            <testcase name="setUp" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="org.openqa.selenium.WebDriverException"
+                  message="Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+&quot;47.0.1&quot;,&quot;st&quot;:1469783234650}}}
+1474984399967	addons.xpi	DEBUG	No changes found
+1474984399973	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399973	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399981	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1474984399981	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399982	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399984	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1474984399990	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\RANI~1.KUM\AppData\Local\Temp\anonymous8468394356018491873webdriver-profile\extensions.json
+1474984399990	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399991	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399994	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1474984400005	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400005	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400007	addons.xpi	DEBUG	Calling bootstrap method startup on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} version 8.0.0.9103
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -&gt; resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1474984400035	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1474984400035	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1474984400036	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Starting provider: GMPProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1474984400044	addons.manager	DEBUG	Starting provider: PluginProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1474984400045	addons.manager	DEBUG	Completed startup sequence
+1474984400227	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1474984400227	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1474984400228	addons.xpi-utils	DEBUG	Successfully read XPI database
+1474984400235	addons.manager	DEBUG	Starting provider: &lt;unnamed-provider&gt;
+1474984400235	addons.manager	DEBUG	Registering shutdown blocker for &lt;unnamed-provider&gt;
+1474984400235	addons.manager	DEBUG	Provider finished startup: &lt;unnamed-provider&gt;
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1474984400301	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-bcda647f1d13b5887498.0c3b9732ba13.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Driver info: driver.version: FirefoxDriver"
+              >
+<![CDATA[org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files (x86)\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+"47.0.1","st":1469783234650}}}
+1474984399967	addons.xpi	DEBUG	No changes found
+1474984399973	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399973	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399981	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1474984399981	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399982	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399984	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1474984399990	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\RANI~1.KUM\AppData\Local\Temp\anonymous8468394356018491873webdriver-profile\extensions.json
+1474984399990	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399991	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399994	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1474984400005	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400005	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400007	addons.xpi	DEBUG	Calling bootstrap method startup on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} version 8.0.0.9103
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1474984400035	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1474984400035	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1474984400036	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Starting provider: GMPProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1474984400044	addons.manager	DEBUG	Starting provider: PluginProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1474984400045	addons.manager	DEBUG	Completed startup sequence
+1474984400227	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1474984400227	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1474984400228	addons.xpi-utils	DEBUG	Successfully read XPI database
+1474984400235	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1474984400235	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1474984400235	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1474984400301	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-bcda647f1d13b5887498.0c3b9732ba13.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Driver info: driver.version: FirefoxDriver
+  org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:130)
+  org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+  org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:114)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:193)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:186)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:182)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:95)
+  in.valtech.custom.CustomFunction.initializeDriver(CustomFunction.java:498)
+  in.valtech.config.BaseTest.setUp(BaseTest.java:97)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+  org.testng.TestRunner.beforeRun(TestRunner.java:641)
+  org.testng.TestRunner.run(TestRunner.java:609)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+Caused by: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+"47.0.1","st":1469783234650}}}
+1474984399967	addons.xpi	DEBUG	No changes found
+1474984399973	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399973	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1474984399981	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1474984399981	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399982	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1474984399984	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1474984399990	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\RANI~1.KUM\AppData\Local\Temp\anonymous8468394356018491873webdriver-profile\extensions.json
+1474984399990	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399991	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1474984399994	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1474984400005	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400005	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi
+1474984400007	addons.xpi	DEBUG	Calling bootstrap method startup on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} version 8.0.0.9103
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+1474984400035	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1474984400035	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1474984400036	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1474984400036	addons.manager	DEBUG	Starting provider: GMPProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1474984400044	addons.manager	DEBUG	Starting provider: PluginProvider
+1474984400044	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1474984400044	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1474984400045	addons.manager	DEBUG	Completed startup sequence
+1474984400227	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1474984400227	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1474984400228	addons.xpi-utils	DEBUG	Successfully read XPI database
+1474984400235	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1474984400235	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1474984400235	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1474984400301	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1474984400301	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-bcda647f1d13b5887498.0c3b9732ba13.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+
+  org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:118)
+  org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+  org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:114)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:193)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:186)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:182)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:95)
+  in.valtech.custom.CustomFunction.initializeDriver(CustomFunction.java:498)
+  in.valtech.config.BaseTest.setUp(BaseTest.java:97)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+  org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+  org.testng.TestRunner.beforeRun(TestRunner.java:641)
+  org.testng.TestRunner.run(TestRunner.java:609)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step08_ClickonPRI" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step05_clickOnSOP" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step06_clickOnDES" time="0.001" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step03_ClickonRSE" time="0.001" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step02_CloseSinUp" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step07_clickOnCOM" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step04_clickOnFAA" time="0.001" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="Step01_HOMEPAGE_URL" time="0.000" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+                <failure type="java.lang.NullPointerException"
+                  message="(null)"
+              >
+<![CDATA[java.lang.NullPointerException
+  in.valtech.util.Screenshot.onTestSkipped(Screenshot.java:171)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1887)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="classLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelSetup" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+            <testcase name="methodLevelTearDown" time="0.0" classname="in.valtech.RoadScholar.test.HOP_TC_02">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

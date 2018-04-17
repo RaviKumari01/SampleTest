@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Personal Information Page_YES_PIP_TC_31"
+           tests="14"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="455.877">
+  <properties />
+            <testcase name="step13_ClickOnSaveButton" time="30.068" classname="in.valtech.RoadScholar.test.PIP_TC_31">
+                <failure type="org.openqa.selenium.ElementNotVisibleException"
+                  message="element not visible
+  (Session info: chrome=53.0.2785.116)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: &apos;2.43.1&apos;, revision: &apos;5163bce&apos;, time: &apos;2014-09-10 16:27:33&apos;
+System info: host: &apos;VDC01LDW0013&apos;, ip: &apos;192.168.155.35&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.7.0_40&apos;
+Session ID: e1ec58aa752a673ebd2f87fb5e1c7202
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\RANI~1.KUM\AppData\Local\Temp\scoped_dir7804_23846}, rotatable=false, locationContextEnabled=true, version=53.0.2785.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]"
+              >
+<![CDATA[org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=53.0.2785.116)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 24 milliseconds
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'VDC01LDW0013', ip: '192.168.155.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_40'
+Session ID: e1ec58aa752a673ebd2f87fb5e1c7202
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\RANI~1.KUM\AppData\Local\Temp\scoped_dir7804_23846}, rotatable=false, locationContextEnabled=true, version=53.0.2785.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+  sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+  sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+  org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+  org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+  org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+  org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+  in.valtech.uiFunctions.GUIFunctions.clickElement(GUIFunctions.java:65)
+  in.valtech.RoadScholar.pages.ChangePassword.ClickOnSave(ChangePassword.java:59)
+  in.valtech.RoadScholar.test.PIP_TC_31.step13_ClickOnSaveButton(PIP_TC_31.java:178)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="step04_enterEmailInToEmailField" time="10.131" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step12_EnterValueInReTypePasswordField" time="95.132" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step14_VerifySuccesssMessage" time="65.165" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step07_clickOnPersonalInformationLink" time="21.640" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step10_clickOnChangePasswordlink" time="40.103" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step03_clickOnSignInLink" time="5.100" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step05_enterPasswordIntoPasswordField" time="10.136" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step09_clickOnSaveAndContinueButton" time="40.124" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step01_HomePage_URL" time="12.664" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step02_closeSinUpPopUp" time="10.115" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step08_changeEmailAddressandClickOnChangepasswordLink" time="10.209" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step06_clickOnSignInButton" time="10.177" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+                <testcase name="step11_enterValueInPasswordField" time="95.113" classname="in.valtech.RoadScholar.test.PIP_TC_31" />
+      
+</testsuite>

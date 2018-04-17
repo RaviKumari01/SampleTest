@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_02"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="140.400">
+  <properties />
+  
+  
+            <testcase name="step08_ClickonPRITab" time="15.114" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step03_clickonRSETab" time="25.598" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step01_HomePage_URL" time="8.764" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step04_clickOnFAATab" time="20.137" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step07_clickOnCOMTab" time="20.193" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step06_clickOnDESTab" time="20.192" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step05_clickOnSOPTab" time="20.234" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+                <testcase name="step02_closeSinUpPopUp" time="10.168" classname="in.valtech.RoadScholar.test.HOP_TC_02" />
+      
+</testsuite>

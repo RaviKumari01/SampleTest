@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step3_YES_CS3_TC_51"
+           tests="39"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="329.110">
+  <properties />
+            <testcase name="step37_verifyErrorMessage" time="20.036" classname="in.valtech.RoadScholar.test.CS3_TC_51">
+                <failure type="java.lang.AssertionError"
+                  message="Text  is not matching expected [null] but found [There was an issue processing your payment. Please try again or use a different payment method.]"
+              >
+<![CDATA[java.lang.AssertionError: Text  is not matching expected [null] but found [There was an issue processing your payment. Please try again or use a different payment method.]
+  org.testng.Assert.fail(Assert.java:94)
+  org.testng.Assert.failNotEquals(Assert.java:494)
+  org.testng.Assert.assertEquals(Assert.java:123)
+  org.testng.Assert.assertEquals(Assert.java:176)
+  in.valtech.RoadScholar.pages.CheckOutStep3.verifyError(CheckOutStep3.java:204)
+  in.valtech.RoadScholar.test.CS3_TC_51.step37_verifyErrorMessage(CS3_TC_51.java:491)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:606)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+  org.testng.SuiteRunner.run(SuiteRunner.java:240)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  org.testng.TestNG.privateMain(TestNG.java:1364)
+  org.testng.TestNG.main(TestNG.java:1333)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="step34_AmountTextBox" time="0.025" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step24_clickOn$10RadioButton" time="0.063" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step16_enterValueLastName" time="10.137" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step12_selectNoInterfaceRadioBtn" time="35.106" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step19_enterPhoneNumber" time="10.132" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step11_click" time="5.085" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step07_EnterTripIdIntoSearchField" time="5.133" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step38_enterTextIntoAllMandatoryFields" time="15.424" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step36_clcickOnCompleteButton" time="5.084" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step03_ClickOnSignInLink" time="10.112" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step39_clcickOnCompleteButton" time="5.779" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step05_Passwd" time="10.135" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step27_clickIAcceptButton" time="10.156" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step01_HOMEPAGE_URL" time="9.355" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step32_AccountNumberTextBox" time="0.024" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step28_clickPayByCheckRadioButton" time="5.054" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step08_clickOnSearchButton" time="5.068" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step31_routingNumberTextBox" time="0.024" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step09_clickOnDateAndPricesTab" time="10.215" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step10_clickOnSelectBtn" time="9.433" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step06_SignUpBtn" time="15.207" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step02_clickingOnCloseButton" time="10.109" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step26_clickOnOkayButton" time="5.067" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step25_clickOn$10RadioButton" time="0.072" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step35_completeButton" time="0.044" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step19_enterZipCode" time="10.152" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step04_Email" time="15.193" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step18_enterCity" time="10.136" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step21_selectCountry1" time="10.192" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step22_selectStateDropDown" time="10.158" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step13_SelectDoubleRadioBtn" time="10.111" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step30_AccountTypeTextBox" time="0.025" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step29_nameOnAccountTextBox" time="4.504" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step33_BankNameTextBox" time="0.017" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step23_clickOnContinueBtn" time="10.081" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step15_EnterValueFirstName" time="11.205" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step17_enterValueAddress" time="10.136" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step14_clickOnContinueBtn" time="15.121" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+      
+</testsuite>

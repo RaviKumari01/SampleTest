@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Catalog Request Page_YES_CAR_TC_12"
+           tests="21"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.034">
+  <properties />
+  
+  
+            <testcase name="Step01_HOMEPAGE_URL" time="9.066" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step6_Verifysubtext" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step10_VerifyInternational" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step18_VerifyEmailAddressField" time="0.038" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step14_VerifyAddressField" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step20_VerifySignMeUpCheckBox" time="0.037" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step11_VerifyEnteryourcontactinformationsection" time="0.040" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step21_VerifySubmitBtn" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step19_VerifySignMeUpText" time="0.038" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step02_ClickingOnCLOSE" time="5.096" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step16_VerifyStateDropDown" time="0.038" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step7_VerifyselectCatalogSection" time="0.037" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step15_VerifyCityField" time="0.024" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step13_VerifyLastName" time="0.025" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step3_clickOnCatalogRequest" time="7.209" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step5_VerifySignIn" time="0.037" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step12_VerifyFirstName" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step4_VerifyTitle" time="5.040" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step17_VerifyPhoneNumberField" time="0.037" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step9_VerifyAdvantureAfloat" time="0.038" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+                <testcase name="Step8_VerifynorthAmerica" time="0.039" classname="in.valtech.RoadScholar.test.CAR_TC_12" />
+      
+</testsuite>

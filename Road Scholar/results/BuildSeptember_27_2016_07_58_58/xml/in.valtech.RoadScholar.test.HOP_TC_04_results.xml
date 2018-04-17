@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_04"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="57.074">
+  <properties />
+  
+  
+            <testcase name="step06_EnterValueIntoLastNameTextBox" time="2.193" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step10_ClickOnCreateButton" time="10.113" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step04_ClickOnStartHereLink" time="2.365" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step03_ClickOnMyAccountLink" time="5.104" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step09_EnterValueIntoConfirmPasswordTextBox" time="2.145" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step05_EnterValueIntoFirstNameTextBox" time="2.168" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step12_VerifyLogedInUser" time="5.100" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step02_Close_PopUp" time="5.094" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step01_HOMEPAGE_URL" time="8.255" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step08_EnterValueIntoPasswordTextBox" time="2.192" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step07_EnterValueIntoEmailTextBox" time="2.168" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+                <testcase name="step11_ClickOnThankyoucloseButton" time="10.177" classname="in.valtech.RoadScholar.test.HOP_TC_04" />
+      
+</testsuite>

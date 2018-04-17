@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_01"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.003">
+  <properties />
+  
+  
+            <testcase name="Step09_verifyfooterlinks" time="0.109" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step11_verifyAddressLabel" time="0.020" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step07_verifyHeaderlinks" time="0.077" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step03_verifySignupPopup" time="5.073" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step13_verifyTermsofuselink" time="0.020" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step12_verifyPrivacylink" time="0.019" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step06_verifyRoadscholarlogo" time="0.019" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step01_NavigeteToURL" time="7.414" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step02_ClickonCloseModal" time="5.121" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step05_verifySearchToolBar" time="0.020" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step04_verifyDismissibleAlert" time="0.020" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step10_verifySocialbuttons" time="0.071" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+                <testcase name="Step08_verifySearchIcon" time="0.020" classname="in.valtech.RoadScholar.test.HOP_TC_01" />
+      
+</testsuite>

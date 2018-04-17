@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_11"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="57.859">
+  <properties />
+  
+  
+            <testcase name="step08_VerifiesRstitle" time="0.043" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step01_HOMEPAGE_URL" time="7.393" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step04_NavigateToTwiterPage" time="7.350" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step07_ClickonloginBtn" time="10.099" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step05_EnterEmail" time="10.172" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step03_NavigateToTwiterPage" time="12.561" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step06_EnterPassword" time="5.128" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+                <testcase name="step02_closingSignUpWindow" time="5.113" classname="in.valtech.RoadScholar.test.HOP_TC_11" />
+      
+</testsuite>

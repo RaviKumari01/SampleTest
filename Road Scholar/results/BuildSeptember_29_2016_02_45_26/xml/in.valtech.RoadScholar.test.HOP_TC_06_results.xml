@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_06"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.223">
+  <properties />
+  
+  
+            <testcase name="Step03_enterTextIntoSearchTextBox" time="0.147" classname="in.valtech.RoadScholar.test.HOP_TC_06" />
+                <testcase name="Step04_ClickonFlyout" time="11.615" classname="in.valtech.RoadScholar.test.HOP_TC_06" />
+                <testcase name="Step02_ClickingOnCLOSE" time="6.095" classname="in.valtech.RoadScholar.test.HOP_TC_06" />
+                <testcase name="Step01_HOMEPAGE_URL" time="7.366" classname="in.valtech.RoadScholar.test.HOP_TC_06" />
+      
+</testsuite>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_ThankYou_YES_CTY_TC_52"
+           tests="50"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="497.893">
+  <properties />
+  
+  
+            <testcase name="step39_verifyAccommodation" time="10.041" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step21_enterZipCode" time="10.155" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step26_clickOnViewTermsAndConditionLink" time="0.080" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step13_SelectDoubleRadioBtn" time="10.099" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step49_verifyValueOfProgramNumber" time="5.081" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step25_clickOn$10RadioButton" time="4.550" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step18_enterValueAddress" time="10.135" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step07_EnterTripIdIntoSearchField" time="5.124" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step36_verifyProgramName" time="10.071" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step28_clickIAcceptButton" time="10.116" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step11_click" time="5.081" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step43_verifyRemainingBalance" time="10.071" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step33_verifyDescription" time="10.079" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step03_ClickOnSignInLink" time="10.127" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step41_verifyTotalPrice" time="10.081" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step05_Passwd" time="10.138" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step10_clickOnSelectBtn" time="17.025" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step02_clickingOnCloseButton" time="10.123" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step31_clcickOnCompleteButton" time="10.087" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step12_selectNoInterfaceRadioBtn" time="5.092" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step30_enterTextIntoAllMandatoryFields" time="15.476" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step27_clickOnOkayButton" time="5.068" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step17_enterValueLastName" time="10.144" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step50_verifyValueOfProgramDate" time="5.134" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step19_enterCity" time="10.103" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step37_verifyProgramNumber" time="10.068" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step48_verifyValueOfProgramName" time="5.119" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step23_selectStateDropDown" time="10.140" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step34_verifyPeopleTravelling" time="10.080" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step09_clickOnDateAndPricesTab" time="10.732" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step16_EnterValueFirstName" time="11.227" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step42_verifyWithAGift" time="5.052" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step24_clickOnContinueBtn" time="10.083" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step32_verifyTitle" time="10.092" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step01_HOMEPAGE_URL" time="9.364" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step44_verifyCancellationPolicyLink" time="10.072" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step06_SignUpBtn" time="15.205" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step40_verifyActivityLevel" time="10.079" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step22_selectCountry1" time="10.220" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step35_verifyordernumber" time="10.079" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step47_verifyValueOfOrderName" time="10.084" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step04_Email" time="15.226" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step14_selectNoInterfaceRadioBtn" time="5.060" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step15_clickOnContinueBtn" time="20.146" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step29_clickPayByCheckRadioButton" time="5.056" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step38_verifyProgramDates" time="10.080" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step46_verifyValueOfOrderNumber" time="40.100" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step08_clickOnSearchButton" time="5.075" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="step45_verifyLearnMoreLink" time="10.052" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+                <testcase name="Step20_enterPhoneNumber" time="10.121" classname="in.valtech.RoadScholar.test.CTY_TC_52" />
+      
+</testsuite>

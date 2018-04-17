@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step2_CS2_TC_42_CS2_TC_42"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="52.106">
+  <properties />
+  
+  
+            <testcase name="step02_clickingOnClose" time="10.116" classname="in.valtech.RoadScholar.test.CS2_TC_42" />
+                <testcase name="Step01_HOMEPAGE_URL" time="11.504" classname="in.valtech.RoadScholar.test.CS2_TC_42" />
+                <testcase name="step04_clickOnDateAndPricesTab" time="15.215" classname="in.valtech.RoadScholar.test.CS2_TC_42" />
+                <testcase name="step03_clickOnTripCard" time="15.271" classname="in.valtech.RoadScholar.test.CS2_TC_42" />
+      
+</testsuite>

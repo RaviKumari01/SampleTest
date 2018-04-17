@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/reportng-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/selenium-server-standalone-2.43.1.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="D:/ChanelFinalAutomation/workspace/ChanelPOC/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

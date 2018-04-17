@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Catalog Request Page_YES_CAR_TC_14"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="173.357">
+  <properties />
+  
+  
+            <testcase name="Step13_VerifyError" time="0.042" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step04_VerifyTheMaximumLengthOfFirstNameTextField" time="15.121" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step08_VerifyTheMaximumLengthOfPhoneNumberField" time="15.113" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step02_ClickingOnClose" time="5.099" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step06_VerifyTheMaximumLengthOfAddresstextField" time="15.109" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step11_EnterSplCharacterIntoFields" time="40.825" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step12_clickOnSubmitBtn" time="0.064" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step3_clickOnCatalogRequest" time="12.024" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step07_VerifyTheMaximumLengthOfCitytextField" time="15.104" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step04_VerifyTheMaximumLengthOfLastNameTextField" time="15.108" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step10_VerifyTheMaximumLengthOfEmailAddressField" time="15.112" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step01_HOMEPAGE_URL" time="9.525" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+                <testcase name="Step09_VerifyTheMaximumLengthOfZipcodeField" time="15.111" classname="in.valtech.RoadScholar.test.CAR_TC_14" />
+      
+</testsuite>

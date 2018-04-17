@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Catalog Request Page_YES_CAR_TC_13"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="24.821">
+  <properties />
+  
+  
+            <testcase name="Step01_HOMEPAGE_URL" time="10.538" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step04_clickOnSubmitBtn" time="0.096" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step05_verifyError" time="0.111" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step08_verifyError" time="0.034" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step07_clickOnSubmitBtn" time="0.050" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step02_clickingOnCloseModal" time="5.133" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step03_clickOnCatalogRequestLink" time="7.254" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+                <testcase name="step06_selectNorthAmericaCheckBox" time="1.605" classname="in.valtech.RoadScholar.test.CAR_TC_13" />
+      
+</testsuite>

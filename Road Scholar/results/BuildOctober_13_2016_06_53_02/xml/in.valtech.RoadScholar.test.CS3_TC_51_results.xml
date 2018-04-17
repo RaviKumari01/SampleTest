@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkout_Step3_YES_CS3_TC_51"
+           tests="14"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="168.166">
+  <properties />
+  
+  
+            <testcase name="Step09_clickOnDateAndPricesTab" time="10.242" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step08_clickOnSearchButton" time="5.072" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step06_SignUpBtn" time="15.191" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step05_Passwd" time="10.136" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step12_SelectDoubleRadioBtn" time="10.094" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step07_EnterTripIdIntoSearchField" time="6.128" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step10_clickOnSelectBtn" time="10.143" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step03_ClickOnSignInLink" time="10.111" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step13_selectNoInterfaceRadioBtn" time="35.118" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step14_clickOnContinueBtn" time="15.131" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step02_clickingOnCloseButton" time="10.139" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step11_click" time="5.081" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="step01_HOMEPAGE_URL" time="10.380" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+                <testcase name="Step04_Email" time="15.200" classname="in.valtech.RoadScholar.test.CS3_TC_51" />
+      
+</testsuite>

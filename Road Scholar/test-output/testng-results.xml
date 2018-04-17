@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19" started-at="2016-09-15T13:43:54Z" finished-at="2016-09-15T13:43:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19" started-at="2016-09-15T13:43:54Z" finished-at="2016-09-15T13:43:54Z">
+      <class name="in.valtech.RoadScholar.test.HOP_TC_03">
+        <test-method status="PASS" signature="suiteSetUp()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="suiteSetUp" is-config="true" duration-ms="9" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetUp -->
+        <test-method status="FAIL" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="setUp" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Method setUp requires 6 parameters but 7 were supplied in the @Configuration annotation.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Method setUp requires 6 parameters but 7 were supplied in the @Configuration annotation.
+	at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:198)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:134)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:358)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:86)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:199)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="methodLevelSetup()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="methodLevelSetup" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method status="SKIP" signature="Step01_HOMEPAGE_URL()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="Step01_HOMEPAGE_URL" duration-ms="1" started-at="2016-09-15T19:13:54Z" description="Step 1:  Open browser,Navigate to the RS URL" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step01_HOMEPAGE_URL -->
+        <test-method status="SKIP" signature="methodLevelTearDown()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="methodLevelTearDown" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelTearDown -->
+        <test-method status="SKIP" signature="methodLevelSetup()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="methodLevelSetup" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method status="SKIP" signature="Step02_ClickingOnSubmitBtn()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="Step02_ClickingOnSubmitBtn" duration-ms="0" started-at="2016-09-15T19:13:54Z" description="Step 2:  clicking on submit button" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step02_ClickingOnSubmitBtn -->
+        <test-method status="SKIP" signature="methodLevelTearDown()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="methodLevelTearDown" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelTearDown -->
+        <test-method status="SKIP" signature="classLevelTearDown()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="classLevelTearDown" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classLevelTearDown -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:in.valtech.RoadScholar.test.HOP_TC_03@3a333bdb]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-09-15T19:13:54Z" finished-at="2016-09-15T19:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- in.valtech.RoadScholar.test.HOP_TC_03 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

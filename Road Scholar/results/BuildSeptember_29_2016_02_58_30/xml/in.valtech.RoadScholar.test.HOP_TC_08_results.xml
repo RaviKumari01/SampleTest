@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Page_YES_HOP_TC_08"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.911">
+  <properties />
+  
+  
+            <testcase name="step05_verifyTripPageTitle" time="0.050" classname="in.valtech.RoadScholar.test.HOP_TC_08" />
+                <testcase name="step03_ClickOnInternationalTabUnderFA" time="5.108" classname="in.valtech.RoadScholar.test.HOP_TC_08" />
+                <testcase name="step02_ClickonCloseModal" time="5.089" classname="in.valtech.RoadScholar.test.HOP_TC_08" />
+                <testcase name="step04_ClickOnTripCardsUnderFA" time="10.159" classname="in.valtech.RoadScholar.test.HOP_TC_08" />
+                <testcase name="step01_HOMEPAGE_URL" time="8.505" classname="in.valtech.RoadScholar.test.HOP_TC_08" />
+      
+</testsuite>
